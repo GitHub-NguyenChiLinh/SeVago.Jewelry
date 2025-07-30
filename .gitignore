@@ -1,0 +1,31 @@
+# Ignore build folders
+/bin/
+/obj/
+/obj/**
+
+# Ignore VS files
+.vs/
+/.vscode/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore test results
+TestResults/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore OrderManagement-specific folder
+.vs/OrderManagement/*
