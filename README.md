@@ -14,3 +14,4 @@ Step by step to run project
 3. Postman collection
   - Open Postman and click import: upload file: "Sevago.jewelry.postman_collection.json"
 4. UnitTest
+(Noted: If you see error relate database, please update the connectionString at file appsettings.Development.json)
