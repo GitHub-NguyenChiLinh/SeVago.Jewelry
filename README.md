@@ -1,0 +1,1 @@
+# SeVago.Jewelry
