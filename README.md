@@ -15,4 +15,5 @@ Step by step to run project
   - Open Postman and click import: upload file: "Sevago.jewelry.postman_collection.json"
 4. UnitTest
  - Using Visual Studio Code: Open project and click on terminal, open new and type: "dotnet test". The result will be display on terminal
+ - Using Visual Studio: Open solution and click on Test tab, click Run All Test (Ctrl + R + A)
 (Noted: If you see error relate database, please update the connectionString at file appsettings.Development.json)
