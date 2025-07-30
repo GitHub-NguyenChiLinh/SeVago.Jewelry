@@ -1,8 +1,6 @@
 # Ignore build folders
 /bin/
 /obj/
-/obj/**
-
 # Ignore VS files
 .vs/
 /.vscode/
