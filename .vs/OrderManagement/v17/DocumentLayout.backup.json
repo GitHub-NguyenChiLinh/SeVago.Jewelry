@@ -1,0 +1,561 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\mappers\\customermapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:mappers\\customermapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\mappers\\ordermapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:mappers\\ordermapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\mappers\\productmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:mappers\\productmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\responses\\products\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\responses\\products\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\responses\\customers\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\responses\\customers\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\requests\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\requests\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\requests\\orders\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\requests\\orders\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\requests\\customers\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\requests\\customers\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\requests\\customers\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\requests\\customers\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\implementations\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\implementations\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\repositories\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:repositories\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\dtos\\responses\\orders\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:dtos\\responses\\orders\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\database\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:database\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|d:\\ordermanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0782BB9F-198C-D49B-0BAC-2B9F86E06D5F}|OrderManagement.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderMapperProfile.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Mappers\\OrderMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\OrderMapperProfile.cs",
+              "ToolTip": "D:\\OrderManagement\\Mappers\\OrderMapperProfile.cs",
+              "RelativeToolTip": "Mappers\\OrderMapperProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:57:00.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCustomerDto.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Requests\\Customers\\UpdateCustomerDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Requests\\Customers\\UpdateCustomerDto.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Requests\\Customers\\UpdateCustomerDto.cs",
+              "RelativeToolTip": "DTOs\\Requests\\Customers\\UpdateCustomerDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:56:37.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Implementations\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\OrderDetailService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Implementations\\OrderDetailService.cs",
+              "RelativeToolTip": "Services\\Implementations\\OrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:36:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Responses\\BaseResponse.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "DTOs\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:14:04.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Responses\\Orders\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Responses\\Orders\\OrderResponse.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Responses\\Orders\\OrderResponse.cs",
+              "RelativeToolTip": "DTOs\\Responses\\Orders\\OrderResponse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:13:53.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Requests\\Orders\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Requests\\Orders\\CreateOrderDto.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Requests\\Orders\\CreateOrderDto.cs",
+              "RelativeToolTip": "DTOs\\Requests\\Orders\\CreateOrderDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:13:39.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:04:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:01:54.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerResponse.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Responses\\Customers\\CustomerResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Responses\\Customers\\CustomerResponse.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Responses\\Customers\\CustomerResponse.cs",
+              "RelativeToolTip": "DTOs\\Responses\\Customers\\CustomerResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:59:23.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Responses\\Products\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Responses\\Products\\ProductResponse.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Responses\\Products\\ProductResponse.cs",
+              "RelativeToolTip": "DTOs\\Responses\\Products\\ProductResponse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:59:01.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMapperProfile.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Mappers\\ProductMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\ProductMapperProfile.cs",
+              "ToolTip": "D:\\OrderManagement\\Mappers\\ProductMapperProfile.cs",
+              "RelativeToolTip": "Mappers\\ProductMapperProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:57:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerMapperProfile.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Mappers\\CustomerMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\CustomerMapperProfile.cs",
+              "ToolTip": "D:\\OrderManagement\\Mappers\\CustomerMapperProfile.cs",
+              "RelativeToolTip": "Mappers\\CustomerMapperProfile.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:56:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Requests\\Customers\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Requests\\Customers\\CreateCustomerDto.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Requests\\Customers\\CreateCustomerDto.cs",
+              "RelativeToolTip": "DTOs\\Requests\\Customers\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:55:04.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\DTOs\\Requests\\Products\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Requests\\Products\\CreateProductDto.cs",
+              "ToolTip": "D:\\OrderManagement\\DTOs\\Requests\\Products\\CreateProductDto.cs",
+              "RelativeToolTip": "DTOs\\Requests\\Products\\CreateProductDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:55:01.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:52:17.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductsControllers.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Controllers\\ProductsControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsControllers.cs",
+              "ToolTip": "D:\\OrderManagement\\Controllers\\ProductsControllers.cs",
+              "RelativeToolTip": "Controllers\\ProductsControllers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:50:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:14:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseDbContext.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Database\\BaseDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\BaseDbContext.cs",
+              "ToolTip": "D:\\OrderManagement\\Database\\BaseDbContext.cs",
+              "RelativeToolTip": "Database\\BaseDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:09:55.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\OrderManagement\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:11:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\OrderManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:11:20.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Implementations\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CustomerService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Implementations\\CustomerService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:07:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ProductService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:08:11.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\OrderManagement\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:06:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:05:11.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\ProductRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:05:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Implementation\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\CustomerRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Implementation\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:05:37.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:04:58.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Implementation\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Implementation\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:03:57.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\OrderManagement\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:59:52.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\OrderManagement\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:58:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\OrderManagement\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:56:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Repositories\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\OrderRepository.cs",
+              "ToolTip": "D:\\OrderManagement\\Repositories\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\OrderRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:56:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\OrderManagement\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\OrderService.cs",
+              "ToolTip": "D:\\OrderManagement\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "Services\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:54:40.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

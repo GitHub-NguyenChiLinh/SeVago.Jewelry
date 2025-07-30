@@ -1,0 +1,34 @@
+### Test Order APIs
+
+### 1. Create Order
+POST https://localhost:7001/api/orders
+Content-Type: application/json
+
+{
+  "customerId": 1,
+  "orderDate": "2024-01-15T10:00:00Z",
+  "orderDetails": [
+    {
+      "productId": 1,
+      "quantity": 2,
+      "unitPrice": 25.50
+    },
+    {
+      "productId": 2,
+      "quantity": 1,
+      "unitPrice": 15.75
+    }
+  ]
+}
+
+### 2. Get All Orders
+GET https://localhost:7001/api/orders
+
+### 3. Get Orders by Customer
+GET https://localhost:7001/api/orders?customerId=1
+
+### 4. Get Orders by Date Range
+GET https://localhost:7001/api/orders?startDate=2024-01-01&endDate=2024-01-31
+
+### 5. Get Order by ID
+GET https://localhost:7001/api/orders/1
